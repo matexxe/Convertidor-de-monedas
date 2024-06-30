@@ -5,12 +5,12 @@
 
 En esta ocasion, se pide realizar una aplicacion cuya funcion permita la conversion de las siguientes monedas locales mediante el uso de la api **exchangerate**:
 
-1. ARS - Peso argentino.
-2. BOB - Peso boliviano.
-3. BRL - Real brasileño.
-4. CLP - Peso chileno.
-5. COP - Peso colombiano.
-6. USD - Dolar estadounidense. 
+1. ARS - Peso argentino
+2. BOB - Peso boliviano
+3. BRL - Real brasileño
+4. CLP - Peso chileno
+5. COP - Peso colombiano
+6. USD - Dolar estadounidense
 
 Esta aplicacion cuenta tambien con una funcion que le permite al usuario ver en tiempo real el historial de sus conversiones:
 
